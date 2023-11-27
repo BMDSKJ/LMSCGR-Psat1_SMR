@@ -31,3 +31,4 @@ boxplot(wt$mean,
         #boxwex = 0.25,
         notch = FALSE
 )
+
