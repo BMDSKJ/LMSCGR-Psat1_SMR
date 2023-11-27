@@ -1,3 +1,6 @@
+# The codes were tested with Seurat 2.3.4 and R 3.6.3 
+# For the detail, please check paper: PMID 30890574
+
 load("~/s5_s6_60h_pbmc.RData")
 TSNEPlot(s5_s6_60h_pbmc,do.label = F)
 s5_s6_60h_pbmc_new<-s5_s6_60h_pbmc
